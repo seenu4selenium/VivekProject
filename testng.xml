@@ -4,9 +4,9 @@
   <test thread-count="5" name="MyTestResults_Build_1.2.55">
     <classes>
       <class name="testNG.FirstTestNG_Assignment"/>
-     <!--  <class name="testNG.BlazeDemo"/> -->
+     <class name="testNG.BlazeDemo"/>
       <class name="testNG.FB"/>
-    <!--   <class name="testNG.DataProviderDemo"/> -->
+    <class name="testNG.DataProviderDemo"/> 
       <class name="testNG.ScreenshotDemo"/>
       <class name="testNG.TestCaseExecution_Assignment11"/>
       <class name="testNG.FirstProgram"></class>    
