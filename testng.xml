@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySuite_Build_1.2.55">
+  <test thread-count="5" name="MyTestResults_Build_1.2.55">
+    <classes>
+      <class name="testNG.FirstTestNG_Assignment"/>
+     <!--  <class name="testNG.BlazeDemo"/> -->
+      <class name="testNG.FB"/>
+    <!--   <class name="testNG.DataProviderDemo"/> -->
+      <class name="testNG.ScreenshotDemo"/>
+      <class name="testNG.TestCaseExecution_Assignment11"/>
+      <class name="testNG.FirstProgram"></class>    
+      <class name="testNG.AnnotationsDemo1"></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
